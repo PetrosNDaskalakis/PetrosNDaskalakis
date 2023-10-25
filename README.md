@@ -2,7 +2,7 @@
 
 - 🌱 Im currently studying for my BSc (HONS) Game Programming and Design course at SAE Institute of Athens, Greece.
 
-- 🔭 I’m currently working at Maslas Bros as Junior Games Programmer to contribute to the development of [Modern Naval Warfare]([https://maslasbros.com/](https://mnw.maslasbros.com/))
+- 🔭 I’m currently working at Maslas Bros as Junior Games Programmer to contribute to the development of [Modern Naval Warfare](https://mnw.maslasbros.com/)
 
 - As far back as I can remember, I was always obsessed with consoles and computers because I played those classic video games that gave many children moments of freedom and joy.
 From an early age, I loved the idea of programming and the opportunity it gave people to cultivate their logic and artistic nature.
