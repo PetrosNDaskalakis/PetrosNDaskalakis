@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Petros Daskalakis</h1>
 
-- 🌱 Im currently studying for my BSc (HONS) Game Programming and Design course at SAE Institute of Athens, Greece.
+- 🌱 BSc (HONS) Game Programming and Design course at SAE Institute of Athens, Greece.
 
-- 🔭 I’m currently working at Maslas Bros as Junior Games Programmer to contribute to the development of [Modern Naval Warfare](https://mnw.maslasbros.com/)
+- 🔭 I’m currently working at [Slitherine Software](https://www.slitherine.com/) for [Maslas Bros](https://mnw.maslasbros.com/) as Junior Games Programmer in the area of UI/UX to contribute to the development of [Modern Naval Warfare](https://mnw.maslasbros.com/)
 
 - As far back as I can remember, I was always obsessed with consoles and computers because I played those classic video games that gave many children moments of freedom and joy.
 From an early age, I loved the idea of programming and the opportunity it gave people to cultivate their logic and artistic nature.
@@ -19,6 +19,4 @@ So, I decided to combine my two great passions in life and give others these pea
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
